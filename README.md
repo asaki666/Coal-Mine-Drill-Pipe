@@ -1,5 +1,6 @@
 # Coal-Mine-Drill-Pipe
 Due to the limitations of the downhole environmental conditions, surveillance videos of downhole coal mines have the following characteristics:
+
 (1)Inadequate lighting and insufficient illumination. Despite the installation of fixed light sources, the brightness is notably lower than that of the surrounding environment. The grayscale of the images is predominantly concentrated in a lower range, leading to inadequate contrast.
 
 (2)Dramatical brightness variation. When the headlamp is positioned directly in front of the lens, it produces localized glare as a result of its significantly higher brightness compared the surrounding areas.
